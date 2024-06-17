@@ -1,6 +1,6 @@
 ### Hi there 👋,  Unnati here 
 #### I'm a full stack developer
-👀 I’m interested in learning things that make me curious.
+👀 I’m interested in learning things that make me curious.<br>
 📫 LinkedIn :-
 https://www.linkedin.com/in/unnati-gupta-b73a8a27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
