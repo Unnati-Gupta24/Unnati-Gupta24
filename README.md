@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A passionate full stack and blockchain developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unnati-gupta24&label=Profile%20views&color=0e75b6&style=flat" alt="unnati-gupta24" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full-Stack development**
 
 - 📫 How to reach me **guptaunnati031@gmail.com**
 
