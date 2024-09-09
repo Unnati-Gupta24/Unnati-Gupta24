@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@guptaunnati031?source=post_page-----b7dc82796a07--------------------------------">MEDIUM</a>
+- 📝 I occasionally write articles on <a href="https://medium.com/@guptaunnati031?source=post_page-----b7dc82796a07--------------------------------">MEDIUM</a>
 
 - 📫 How to reach me **guptaunnati031@gmail.com**
 
