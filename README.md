@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
 <h3 align="center">A passionate full stack and Blockchain developer.</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Unnati-Gupta24&icon=0&color=8)](https://visitcount.itsvg.in)
+
 <p align="left"> <a href="https://twitter.com/unnati_builds24" target="blank"><img src="https://img.shields.io/twitter/follow/unnati_builds24?logo=twitter&style=for-the-badge" alt="unnati_builds24" /></a> </p>
 
 # 💫 About Me:
@@ -23,8 +25,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Unnati-Gupta24&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
