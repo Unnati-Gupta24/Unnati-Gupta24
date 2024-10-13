@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Unnati</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Unnati</h1>
 <h3 align="center">A passionate full stack and Blockchain developer.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Unnati-Gupta24&icon=0&color=8)](https://visitcount.itsvg.in)
