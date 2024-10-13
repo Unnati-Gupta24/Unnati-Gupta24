@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
 <h3 align="center">A passionate full stack and Blockchain developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unnati-gupta24&label=Profile%20views&color=0e75b6&style=flat" alt="unnati-gupta24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unnati-gupta24" alt="unnati-gupta24" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/unnati_builds24" target="blank"><img src="https://img.shields.io/twitter/follow/unnati_builds24?logo=twitter&style=for-the-badge" alt="unnati_builds24" /></a> </p>
 
 # 💫 About Me:
