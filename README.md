@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/unnati_builds24" target="blank"><img src="https://img.shields.io/twitter/follow/unnati_builds24?logo=twitter&style=for-the-badge" alt="unnati_builds24" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Unnati-Gupta24&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 # 💫 About Me:
 🌱 I’m currently learning Full-Stack Development<br><br>📝 I occasionally write articles on MEDIUM<br><br>📫 How to reach me guptaunnati031@gmail.com<br><br>⚡ Fun fact Anime fan, Foodie, Traveller
 
@@ -18,10 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Unnati-Gupta24&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnati-Gupta24&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unnati-Gupta24&theme=vision-friendly-dark&hide_border=false)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Unnati-Gupta24&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
