@@ -38,7 +38,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Unnati-Gupta24&theme=tokyo-night"/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)        
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
