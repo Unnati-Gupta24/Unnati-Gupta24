@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Unnati-Gupta24&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🌱 I’m currently learning Full-Stack Development<br><br>📝 I occasionally write articles on <a href="https://medium.com/@guptaunnati031">MEDIUM</a><br><br>📫 How to reach me guptaunnati031@gmail.com<br><br>⚡ Fun fact Anime fan, Foodie, Traveller
+🌱 I’m currently learning AiML<br><br>📝 I occasionally write articles on <a href="https://medium.com/@guptaunnati031">MEDIUM</a><br><br>📫 How to reach me guptaunnati031@gmail.com<br><br>⚡ Fun fact Anime fan, Foodie, Traveller
 
 
 ## 🌐 Socials:
